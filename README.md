@@ -23,12 +23,9 @@ A simple Linux shell script to monitor and analyze basic server performance stat
 
 ---
 
-## Project Structure
+## Project URL
 
-server-performance-stats/
-│
-├── server-stats.sh
-└── README.md
+https://roadmap.sh/projects/server-stats
 
 ---
 
